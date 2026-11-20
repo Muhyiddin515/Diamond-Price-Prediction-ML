@@ -5,4 +5,4 @@ A Python machine learning project that uses regression to estimate diamond price
 ## Project files
 
 - [Jupyter notebook](CSCI441.ipynb) — Python code and analysis.
-- [HTML export](CSCI441%28MH%29.html) — A static copy of the notebook.
+- [HTML export](CSCI441%28MH%29.html) — Download the file and open it in your browser.
